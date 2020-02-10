@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7608" started-at="2020-02-09T21:52:31 EST" finished-at="2020-02-09T21:52:39 EST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7608" started-at="2020-02-09T21:52:31 EST" finished-at="2020-02-09T21:52:39 EST">
+      <class name="com.MerchantES.test.CreateUserTest">
+        <test-method status="PASS" signature="initialization()[pri:0, instance:com.MerchantES.test.CreateUserTest@67b92f0a]" name="initialization" is-config="true" duration-ms="5068" started-at="2020-02-09T21:52:31 EST" finished-at="2020-02-09T21:52:36 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method status="PASS" signature="invalidUserTest()[pri:2, instance:com.MerchantES.test.CreateUserTest@67b92f0a]" name="invalidUserTest" duration-ms="1494" started-at="2020-02-09T21:52:36 EST" finished-at="2020-02-09T21:52:38 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidUserTest -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:com.MerchantES.test.CreateUserTest@67b92f0a]" name="quitBrowser" is-config="true" duration-ms="1018" started-at="2020-02-09T21:52:38 EST" finished-at="2020-02-09T21:52:39 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- com.MerchantES.test.CreateUserTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
